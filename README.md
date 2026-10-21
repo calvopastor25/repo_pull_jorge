@@ -1,6 +1,12 @@
 # repo_pull_jorge
-Vamos a trabajar las pull request
+vamos a añadir cosas
 
+#Añadir tecnologias
+-HTML
+-JAVA
+-GIT
+
+Vamos a trabajar las pull request
 #Tecnologias
 -HTML
 -JAVA SCRIPT
